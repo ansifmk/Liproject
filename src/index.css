@@ -44,3 +44,9 @@
 .animate-fadeInUp {
   animation: fadeInUp 0.8s ease-out forwards;
 }
+seal {
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle, rgba(255, 100, 100, 0.8) 0%, rgba(255, 100, 100, 0.6) 60%, rgba(255, 100, 100, 0.4) 80%, transparent 100%);
+  border-radius: 50%;
+}
